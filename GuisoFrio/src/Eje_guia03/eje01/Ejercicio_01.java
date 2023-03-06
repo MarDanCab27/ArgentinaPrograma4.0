@@ -1,4 +1,4 @@
-package Eje_guia03.eje1;
+package Eje_guia03.eje01;
 
 public class Ejercicio_01 {
     public static void main(String[] args) {

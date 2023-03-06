@@ -1,4 +1,4 @@
-package Eje_guia03.eje1;
+package Eje_guia03.eje01;
 
 import java.util.Scanner;
 
