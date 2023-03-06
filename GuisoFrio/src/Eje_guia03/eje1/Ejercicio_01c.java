@@ -1,4 +1,4 @@
-package Eje_guia03;
+package Eje_guia03.eje1;
 
 import java.util.Scanner;
 
@@ -16,5 +16,5 @@ public class Ejercicio_01c {
         }
         System.out.println(sum);
     }
-    
+
 }
